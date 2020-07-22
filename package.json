@@ -1,0 +1,31 @@
+{
+  "name": "db-navegador",
+  "version": "1.1.0",
+  "description": "Gestionar base datos del navegador",
+  "license": "ISC",
+  "author": {
+    "name": "Rodigo Tarrio",
+    "email": "rodrigotarrio2@gmail.com",
+    "url": "https://codita-6b9a2.web.app"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "array",
+    "random",
+    "rand"
+  ],
+  "dependencies": {
+    "meow": "^7.0.1"
+  }
+}
